@@ -1,2 +1,5 @@
-Ce ci est un exemple
+Ceci est un exemple
+
+Correction du comataire
+
 
